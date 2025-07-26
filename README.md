@@ -25,7 +25,7 @@ This project uses TensorFlow/Keras to build and train a CNN model for classifyin
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone 'https://github.com/45Harry/Hagrid_Classification'
    cd Hagrid_Classification
    ```
 
